@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sendhello
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ivan
+- 👀 I’m interested in Python and Web-Development
+- 🌱 I’m currently learning Airflow
+- 💞️ I’m looking to collaborate on fulltime
+- 📫 How to reach me: 
+     - Telegram: @sendhello
+     - Email: bazhenov.in@gmail.com
 
 <!---
 sendhello/sendhello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

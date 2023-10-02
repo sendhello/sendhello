@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in Python and Web-Development
-- 🌱 I’m currently learning Airflow
+- 👀 I’m interested in Python and Backend-Development
+- 🌱 I’m currently learning new backend instruments
 - 💞️ I’m looking to collaborate on fulltime
 - 📫 How to reach me: 
      - Telegram: @sendhello

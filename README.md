@@ -5,7 +5,7 @@ Low-latency microservices • AsyncIO • FastAPI • Postgres/ClickHouse • K8
 - Observability: JSON logging lib + HTTP tracing; centralised logs to OpenSearch
 - CI/CD: GitLab → private PyPI (Nexus), tests+lint
 
-🔗 LinkedIn | ✉️ bazhenov.in@gmail.com | 📦 Pinned below
+🔗 [LinkedIn](https://linkedin.com/in/sendhello/) | ✉️ bazhenov.in@gmail.com | 📦 Pinned below
 
 <!---
 sendhello/sendhello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

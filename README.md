@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Ivan
-- 👀 I’m interested in Python and Backend-Development
-- 🌱 I’m currently learning new backend instruments
-- 💞️ I’m looking to collaborate on fulltime
-- 📫 How to reach me: 
-     - Telegram: @sendhello
-     - Email: bazhenov.in@gmail.com
+### Ivan Bazhenov — Python Backend Engineer (Melbourne)
+Low-latency microservices • AsyncIO • FastAPI • Postgres/ClickHouse • K8s • OpenSearch
+
+- Recent: unified 7 adapters → 1 async multi-cloud service (7→1 pods, lower p95)
+- Observability: JSON logging lib + HTTP tracing; centralised logs to OpenSearch
+- CI/CD: GitLab → private PyPI (Nexus), tests+lint
+
+🔗 LinkedIn | ✉️ bazhenov.in@gmail.com | 📦 Pinned below
 
 <!---
 sendhello/sendhello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

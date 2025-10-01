@@ -1,9 +1,7 @@
 ### Ivan Bazhenov — Python Backend Engineer (Melbourne)
-Low-latency microservices • AsyncIO • FastAPI • Postgres/ClickHouse • K8s • OpenSearch
+Low-latency microservices • AsyncIO • FastAPI • Postgres/ClickHouse • K8s • AWS • OpenSearch
 
-- Recent: unified 7 adapters → 1 async multi-cloud service (7→1 pods, lower p95)
-- Observability: JSON logging lib + HTTP tracing; centralised logs to OpenSearch
-- CI/CD: GitLab → private PyPI (Nexus), tests+lint
+Python Backend Engineer with experience in designing and operating microservices (FastAPI/Django), messaging (RabbitMQ/Kafka), and data stores (PostgreSQL, ClickHouse, Redis). Comfortable with Docker/Kubernetes and GitLab CI/CD. Focused on low-latency, hight available, observable (structured logging, health checks, tests) microservices. Foundational knowledge of AWS (EC2, IAM, S3, RDS, VPC). 
 
 🔗 [LinkedIn](https://linkedin.com/in/sendhello/) | ✉️ bazhenov.in@gmail.com | 📦 Pinned below
 
